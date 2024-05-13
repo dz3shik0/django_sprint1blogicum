@@ -1,5 +1,4 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
 *.py[cod]
 *$py.class
 
@@ -49,7 +48,6 @@ coverage.xml
 *.cover
 *.py,cover
 .hypothesis/
-.pytest_cache/
 
 # Translations
 *.mo
@@ -137,7 +135,7 @@ dmypy.json
 *.sublime-project
 *.sublime-workspace
 
-.vscode/
+#.vscode/
 *.code-workspace
 
 # Local History for Visual Studio Code
@@ -145,10 +143,10 @@ dmypy.json
 
 .mypy_cache
 
-# папки со статикой и медиа
-media/
+#папки со статикой и медиа
+#media/
 
 # Testing
-build_tests/
-yap_testing
-html/img/img/
+#build_tests/
+#yap_testing
+#html/img/img/
